@@ -1,1 +1,1 @@
-** Seminar 2 - Introduction to Linux Commands **
+Seminar 2 - Introduction to Linux Commands
